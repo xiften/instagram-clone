@@ -35,6 +35,9 @@ $ npm install
 ## Running the app
 
 ```bash
+# generate the schema file !! REQUIRED
+$ npm run generate
+
 # development
 $ npm run start
 
